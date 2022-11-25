@@ -9,6 +9,12 @@
     background-color: rgb(152, 155, 155); 
 }
 
+.s-wrapper video{
+  position: fixed;
+  width: 100%;
+
+}
+
 .s-wrapper .s-left-column {
     width: 100px;
     height: 100%;

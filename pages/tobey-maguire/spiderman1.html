@@ -5,11 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../../assets/css/internal.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
     <title>Spider-Man | Miranhaverso</title>
 </head>
 
 <body>
     <div class="s-wrapper">
+
+        <video loop autoplay muted>
+            <source src="../../assets/videos/spiderman-2002-trailer.mp4" type="video/mp4" />
+          </video>
 
     <div class="s-left-column">
          <nav class="navigator">
@@ -28,7 +33,7 @@
         </nav>
        </div>
 
-       <div class="s-main-content s-spiderman-01-01">
+       <div class="s-main-content">
             <div class="s-main-content__top">
                 <div class="s-logo">
                 <img src="../../assets/images/spiderman-tobey/logo.png" alt="SpiderMan-2002" title="Spiderman (2002)"/>
@@ -72,21 +77,29 @@
             <div class="gallery">
                 <ul>
                     <li>
-                        <a href="#"><img src="../../assets/images/spiderman-tobey/gallery/movie-01/image-01.png" alt="">
+                        <a data-fancybox href="../../assets/images/spiderman-tobey/gallery/movie-01/image-01-full.jpg">
+                            <img src="../../assets/images/spiderman-tobey/gallery/movie-01/image-01.png" alt="">
                         </a>
                     </li>
                     <li>
-                        <a href="#"><img src="../../assets/images/spiderman-tobey/gallery/movie-01/image-02.png" alt="">
+                        <a data-fancybox href="../../assets/images/spiderman-tobey/gallery/movie-01/image-02-full.jpg">
+                            <img src="../../assets/images/spiderman-tobey/gallery/movie-01/image-02.png" alt="">
                         </a>
                     </li>
                     <li>
-                        <a href="#"><img src="../../assets/images/spiderman-tobey/gallery/movie-01/image-03.png" alt="">
+                        <a data-fancybox href="../../assets/images/spiderman-tobey/gallery/movie-01/image-03-full.jpg">
+                            <img src="../../assets/images/spiderman-tobey/gallery/movie-01/image-03.png" alt="">
                         </a>
                     </li>
                 </ul>
             </div>
        </div>
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+    <script>
+        //  JavaScript will go here
+      </script>
     
 </body>
 </html>
