@@ -14,8 +14,3 @@ Inspired by:<https://www.figma.com/proto/GjvdE0uob68X6pEHqw2pY8/Multiverse-Spide
 
 <img scr="/readme/animation1.png">
 <br>
-<img scr="/readme/animation2.png">
-<br>
-<img scr="/readme/animation3.png">
-<br>
-
