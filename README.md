@@ -12,10 +12,10 @@ Languages ​​used: HTML, CSS and JavaScript
 Inspired by:<https://www.figma.com/proto/GjvdE0uob68X6pEHqw2pY8/Multiverse-Spider-Man?node-id=119%3A31&scaling=min-zoom&page-id=1%3A17&starting-point-node-id=24%3A4>
 <br>
 
-<img scr="../../../READ.ME/animation1.png">
+<img scr="/readme/animation1.png">
 <br>
-<img scr="../../../READ.ME/animation2.png">
+<img scr="/readme/animation2.png">
 <br>
-<img scr="../../../READ.ME/animation3.png">
+<img scr="/readme/animation3.png">
 <br>
 
