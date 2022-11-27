@@ -19,4 +19,3 @@ Inspired by:<https://www.figma.com/proto/GjvdE0uob68X6pEHqw2pY8/Multiverse-Spide
 <img scr="../../../READ.ME/animation3.png">
 <br>
 
-[![Watch the video](../../../../LETIX/READ.ME/Spider-Man%20_%20Miranhaverso%20-%20Pessoal%20%E2%80%94%20Microsoft%E2%80%8B%20Edge%202022-11-27%2015-27-03.mp4)]
